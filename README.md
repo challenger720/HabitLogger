@@ -1,4 +1,4 @@
-# Console App: Habit Logger
+# Console App: Study Hour Logger
 
 Console based CRUD application to track time studying each day,
 using C# and SQLite.
